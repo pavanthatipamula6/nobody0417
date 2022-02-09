@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nobody0417
 - 👀 I’m interested in electronics, coding
-- 🌱 I’m currently learning vlsi
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on vlsi design 
 - 📫 How to reach me Gmail pavanthatipamula6@gmail.com 
 
